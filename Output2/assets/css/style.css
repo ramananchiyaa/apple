@@ -1,0 +1,12 @@
+.list_item a{
+	color:white;
+}
+.list_item a:hover{
+	color:#17a2b8;
+}
+.nav-item a{
+	color:white;
+}
+.tilte-color{
+	color:white;
+}
